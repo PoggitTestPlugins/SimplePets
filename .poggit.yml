@@ -7,10 +7,10 @@ projects:
   SimplePets:
     icon: "/assets/logo-min.png"
     libs:
-      - src: poggit/libasynql/libasynql
+      - src: PoggitTestPlugins/libasynql/libasynql
         version: ^3.4.0
         branch: "4.0"
-      - src: muqsit/InvMenu/InvMenu
+      - src: PoggitTestPlugins/InvMenu/InvMenu
         version: ^4.3.2
         branch: "4.0"
 ...
