@@ -3,7 +3,7 @@
 /*
  * Copyright (c) 2021 broki
  * brokiem/SimplePets is licensed under the MIT License
- .
+ ..
  */
 
 declare(strict_types=1);
